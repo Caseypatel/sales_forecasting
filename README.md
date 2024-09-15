@@ -1,4 +1,4 @@
-# sales_forecasting
+<h1 align="center">sales_forecasting </h1>
 
 ## Project Overview
 
